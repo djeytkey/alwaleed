@@ -4,7 +4,7 @@ Tags: woocommerce, wpml, products, variable products
 Requires at least: 6.4
 Tested up to: 6.8
 Requires PHP: 7.4
-$11.0.002
+Stable tag: 1.0.003
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,6 +41,11 @@ Create GitHub releases with a zip asset named `alwaleed-products.zip`.
 WordPress will check the latest release and show an available update.
 
 == Changelog ==
+
+= 1.0.002 =
+* Added automatic version increment on each push via `scripts/push-to-github.cmd`.
+* Script now supports Git repo in plugin folder or project root while committing only `alwaleed-products`.
+* Fixed version metadata consistency in plugin header and readme.
 
 = 1.0.001 =
 * Renamed plugin folder and main file to `alwaleed-products`.
