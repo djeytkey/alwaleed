@@ -3,7 +3,7 @@
  * Plugin Name: Alwaleed products
  * Plugin URI: https://github.com/djeytkey/alwaleed
  * Description: Converts WooCommerce simple products to variable products and supports self-updates from GitHub releases.
- * Version: 1.0.001
+$11.0.002
  * Requires at least: 6.4
  * Requires PHP: 7.4
  * Author: Alwaleed
